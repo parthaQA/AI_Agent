@@ -15,7 +15,7 @@ python-dotenv~=1.0.1
 streamlit~=1.42.2
 
 Streamlit is a python framework to build web pages. 
-["gpt-3.5-turbo", "gpt-4"] is used to build the application.
+["gpt-3.5-turbo", "gpt-4"] is used to build the application. Generate a OPENAI API key from the OpenAI official website. Place the api key in data.env file under resource folder.
 
 
 To run the application use command:
