@@ -1,0 +1,9 @@
+chainlit~=2.2.1
+langchain~=0.3.19
+openai
+pypdf2
+PyMuPDF
+tiktoken
+langchain-community~=0.3.18
+python-dotenv~=1.0.1
+streamlit~=1.42.2
